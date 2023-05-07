@@ -3,7 +3,7 @@ A minimal aesthetic rainmeter bar
 ![Screenshot](./Screenshots/screenshot.png)
 
 ## Requirements:
-  - [Rainmeter](https://www.rainmeter.net/){:target="_blank"}
+  - [Rainmeter](https://www.rainmeter.net/)
   
 ## Features:
   - Weather
