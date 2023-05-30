@@ -1,4 +1,4 @@
-# Zephyrize
+# bar
 A minimal aesthetic rainmeter bar 
 ![Screenshot](./Screenshots/screenshot.png)
 
@@ -15,7 +15,7 @@ A minimal aesthetic rainmeter bar
 ![Showcase](./Screenshots/showcase.gif)
 
 ## Installation:
-  1. Download the latest [release](https://github.com/ZephyrY7/Zephyrize/releases)
+  1. Download the latest [release](https://github.com/ZephyrY7/bar_meter/releases)
   2. Install the skin by double clicking on the downloaded .rmskin
   
 ## Credits:
